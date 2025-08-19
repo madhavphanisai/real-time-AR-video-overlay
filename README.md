@@ -32,11 +32,11 @@ real-time-AR-video-overlay/
    ```bash
    git clone https://github.com/madhavphanisai/real-time-AR-video-overlay.git
    cd real-time-AR-video-overlay
-````
+
 
 2. Install dependencies:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
@@ -44,7 +44,7 @@ real-time-AR-video-overlay/
 
 ## 📦 requirements.txt
 
-```txt
+```
 opencv-python
 numpy
 ```
@@ -55,7 +55,7 @@ numpy
 
 Run the project with:
 
-```bash
+```
 python main.py
 ```
 
