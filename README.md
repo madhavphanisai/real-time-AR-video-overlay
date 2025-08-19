@@ -74,9 +74,3 @@ python main.py
 
 👨‍💻 Developed by **Madhav Phani Sai**
 🔗 [LinkedIn](https://www.linkedin.com/in/madhavphanisai)
-
----
-
-```
-
-
