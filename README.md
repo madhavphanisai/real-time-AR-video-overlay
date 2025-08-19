@@ -69,7 +69,6 @@ python main.py
 * Optimize for mobile devices.
 
 ---
-
 ## 🤝 Connect with Me
 
 👨‍💻 Developed by **Madhav Phani Sai**
